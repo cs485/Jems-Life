@@ -1,5 +1,4 @@
 
-
  
 
 
@@ -296,39 +295,49 @@ The Physical World
 
 Overview
 
-	Describe an overview of the physical world.  Then start talking about the components of the physical world below in each paragraph.
+//Describe an overview of the physical world.  Then start talking about the components of the physical world below in each paragraph.
+There are 2 different worlds seen in this game, there is the real life world seen in the small cutscenes
+that show Jems going through a fairly normal daily routien for a middle/grade schooler and Jems imaginiary,
+video game inspired worlds where the majority of the gameplay happens.
 
 The following describes the key components of the physical world.
 
 Key Locations
 
-	Describe the key locations in the world here.
+//Describe the key locations in the world here.
+In the real world:
+-Jems house: Where he and his mom live, the game starts here with Jems waking up and getting ready to leave for school.
+-The School: Jems school where he often get bored and starts daydreaming about being in video games.
+-The Car: Jems mom ferries him to and from school, Jems often spends trips in here visiting his pretend worlds.
+-Jems head: Where most of this game's actions takes place, home to many fantastical worlds.
 
 Travel
 
-	Describe how the player moves characters around in the world.
+//Describe how the player moves characters around in the world.
+In the real world his mom is his main form of transportation, in Jems game worlds he usually run and jumps
+through the levels using his powers to get through the levels.
 
 Scale
 
-	Describe the scale that you will use to represent the world.  Scale is important!	
+//Describe the scale that you will use to represent the world.  Scale is important!	
+Levels are farily large and linear.
 
 Objects
 
-	Describe the different objects that can be found in the world.
+Describe the different objects that can be found in the world.
 
 See the “Objects Appendix” for a list of all the objects found in the world.
 
-Weather
+//Weather
+//Describe what sort of weather will be found in the world, if any.  Otherwise omit this section.  Add sections that apply to your game design.
 
-	Describe what sort of weather will be found in the world, if any.  Otherwise omit this section.  Add sections that apply to your game design.
+//Day and Night
 
-Day and Night
+	//Does your game have a day and night mode?  If so, describe it here.
 
-	Does your game have a day and night mode?  If so, describe it here.
+//Time
 
-Time
-
-	Describe the way time will work in your game or whatever will be used.
+	//Describe the way time will work in your game or whatever will be used.
 
 Rendering System
 
