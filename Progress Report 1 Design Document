@@ -1,11 +1,10 @@
-
  
 
 
 Design Document for:
 
 
-Name of Game
+Life Of A Gamer
 
 One Liner, i.e. The Ultimate Racing Game
 
@@ -138,6 +137,9 @@ JUNK I AM WORKING ON…	21
 
 Design History
 
+	Life Of A Gamer began as a game programing project for the computer science 485 level class. 
+	The team members begain brainstorming this game on late February of 2014. 
+	All team member wanted to bring commedy/fun to our game. 
 	This is a brief explanation of the history of this document.
 
 	In this paragraph describe to the reader what you are trying to achieve with the design history.  It is possible that they don’t know what this is for and you need to explain it to them.
