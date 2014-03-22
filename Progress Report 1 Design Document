@@ -6,7 +6,7 @@ Design Document for:
 
 Life Of A Gamer
 
-One Liner, i.e. The Ultimate Racing Game
+//One Liner, i.e. The Ultimate Racing Game
 
 
 “Something funny here!”™
@@ -18,7 +18,7 @@ One Liner, i.e. The Ultimate Racing Game
 
 
 
-All work Copyright ©1999 by Your Company Name
+//All work Copyright ©1999 by Your Company Name
 
 Written by Chris Taylor
 
@@ -283,17 +283,22 @@ The Game World
 
 Overview
 
-	Provide an overview to the game world.
+//Provide an overview to the game world.
+There are 2 different "worlds" in this game a real-life world and the imaginairy worlds in the main character's head.
+//World Feature #1
+//This section is not supposed to be called world feature #1 but is supposed to be titled with some major thing about the world.  This is where you break down what is so great about the game world into component pieces and describe each one.
+The Real World
+This is modern day Earth in a typical city following the typical routein of a typical kid, used as transtitions into
+the main levels of this game which take place in......
+//World Feature #2
+//Same thing here.  Don’t sell too hard.  These features should be awesome and be selling the game on its own.
+The Imaginiary Worlds
+These are imaginiary worlds that our hero dreams up while bored/distracted there are several different worlds that
+he "goes" to and each one is inspired from a different video game he's been playing recently. He explores there worlds
+with a special ablility that the actual hero of that game world uses in that game, for example if he'smight have a blaster
+like samus/mega-man as his ability for one levle while he might be able to drop/kick bombs like bomberman in another level,
+the levels and enemies and puzzles found in the level will be balanced around whatever his ability for that level is.
 
-World Feature #1
-
-	This section is not supposed to be called world feature #1 but is supposed to be titled with some major thing about the world.  This is where you break down what is so great about the game world into component pieces and describe each one.
-
-World Feature #2
-
-	Same thing here.  Don’t sell too hard.  These features should be awesome and be selling the game on its own.
-
-The Physical World
 
 Overview
 
@@ -335,11 +340,11 @@ See the “Objects Appendix” for a list of all the objects found in the world.
 
 //Day and Night
 
-	//Does your game have a day and night mode?  If so, describe it here.
+//Does your game have a day and night mode?  If so, describe it here.
 
 //Time
 
-	//Describe the way time will work in your game or whatever will be used.
+//Describe the way time will work in your game or whatever will be used.
 
 Rendering System
 
@@ -470,81 +475,81 @@ Single-Player Game
 
 Overview
 
-	Describe the single-player game experience in a few sentences.
-
-	Here is a breakdown of the key components of the single player game.
-
-Single Player Game Detail #1
-
+//Describe the single-player game experience in a few sentences.
+Here is a breakdown of the key components of the single player game.
+//Single Player Game Detail #1
+The game will have our character dreaming up video inspired game levels to play in with cutscenes showing his
+"boring" everyday life in between his dream levels
 Single Player Game Detail #2
-
+Each level with grant him a special ablility to use for that level and that level only, he will need to use this 
+ability alongside his standard plaforming moves to manuver through the levels and make it to the end.
 Story
 
-	Describe your story idea here and then refer them to an appendix or separate document which provides all the details on the story if it is really big.
-
+//Describe your story idea here and then refer them to an appendix or separate document which provides all the details on the story if it is really big.
+Our story follows the day of our hero, who is an..."imaginative" middle/grade schooler who loves games and is constantly 
+dreaming up worlds to play in instead of what hs sees as a boring everyday life.
 Hours of Gameplay
-
-	Talk about how long the single-player game experience is supposed to last or what your thoughts are at this point.
-
+//Talk about how long the single-player game experience is supposed to last or what your thoughts are at this point.
+About 40 minutes to and hour long.
 Victory Conditions
+//How does the player win the single-player game? 
+Make it to the end of the levels.
 
-	How does the player win the single-player game? 
+//Multiplayer Game
 
-Multiplayer Game
+//Overview
 
-Overview
+//	Describe how the multiplayer game will work in a few sentences and then go into details below.
 
-	Describe how the multiplayer game will work in a few sentences and then go into details below.
+//Max Players
 
-Max Players
+//	Describe how many players can play at once or whatever.
 
-	Describe how many players can play at once or whatever.
+//Servers
 
-Servers
+//	Is your game client-server or peer-to-peer or whatever.
 
-	Is your game client-server or peer-to-peer or whatever.
+//Customization
 
-Customization
+//	Describe how the players can customize the multiplayer experience.
 
-	Describe how the players can customize the multiplayer experience.
+//Internet
 
-Internet
+//	Describe how your game will work over the internet.
 
-	Describe how your game will work over the internet.
+//Gaming Sites
 
-Gaming Sites
+//	Describe what gaming sites you want to support and what technology you intend to use to achieve this.  Perhaps Dplay or TCP/IP or whatever.  It is probably a good idea to break the tech stuff out into a separate area, you decide.
 
-	Describe what gaming sites you want to support and what technology you intend to use to achieve this.  Perhaps Dplay or TCP/IP or whatever.  It is probably a good idea to break the tech stuff out into a separate area, you decide.
+//Persistence
 
-Persistence
+//	Describe if your world is persistent or not.
 
-	Describe if your world is persistent or not.
+//Saving and Loading
 
-Saving and Loading
-
-	Explain how you can save a multiplayer game and then reload it.  If you can or why this is not possible.
+//	Explain how you can save a multiplayer game and then reload it.  If you can or why this is not possible.
  
 
 Character Rendering
 
 Overview
 
-	Provide an overview as to how your characters will be rendered.  You may have decided to include this elsewhere or break it out to provide more detail to a specific reader.
+//Provide an overview as to how your characters will be rendered.  You may have decided to include this elsewhere or break it out to provide more detail to a specific reader.
 
-Character Rendering Detail #1
+//Character Rendering Detail #1
+Will use blender to model the characters.
+//Character Rendering Detail #2
+The character models will have a simple, blocky design.
 
-Character Rendering Detail #2
- 
+//World Editing
 
-World Editing
+//Overview
 
-Overview
+//	Provide an overview about the world editor.
 
-	Provide an overview about the world editor.
+//World Editing Detail #1
 
-World Editing Detail #1
-
-World Editing Detail #2
+//World Editing Detail #2
  
 
 Extra Miscellaneous Stuff
