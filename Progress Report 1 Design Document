@@ -6,8 +6,6 @@ Design Document for:
 
 Life Of A Gamer
 
-//One Liner, i.e. The Ultimate Racing Game
-
 
 “Something funny here!”™
 
@@ -180,16 +178,15 @@ Game Overview
 Philosophy
 
 Philosophical point #1
-
-	This game is trying to do this and that.  Fundamentally I am trying to achieve something that has never been achieved before.  Or.  This game will not try and change the world.  We are ripping off the competition so exactly that I can’t believe it.  The world will be shocked at how we are using an existing engine with new art.
-
+//This game is trying to do this and that.  Fundamentally I am trying to achieve something that has never been achieved before.  Or.  This game will not try and change the world.  We are ripping off the competition so exactly that I can’t believe it.  The world will be shocked at how we are using an existing engine with new art.
+This game is trying to take a basic "templet" and see how drasticly this templet will play with the addition of
+one new power.
 Philosophical point #2
+//Our game only runs on Compaq computers.  The reason for this is such and such.  We believe the world is coming to and end anyhow so what difference does it make?
+This game should be easy to figure out how to play despite new powers being constatnly introduced to the player
 
-	Our game only runs on Compaq computers.  The reason for this is such and such.  We believe the world is coming to and end anyhow so what difference does it make?
-
-Philosophical point #3
-
-	When you create some of these overarching philosophical points about your design, say whatever you want.  Also, feel free to change it to “My game design goals” or whatever you like to call it.
+//Philosophical point #3
+//When you create some of these overarching philosophical points about your design, say whatever you want.  Also, feel free to change it to “My game design goals” or whatever you like to call it.
 
 Common Questions
 
@@ -273,6 +270,12 @@ Can Customize character,Can pick a name and gender.
 
 Gameplay
 
+-Several different abilities will give the player a unique playstlye for the level
+-Fun omage to games
+-Levels that accomodate the unique playstlyle the player has each level
+-If the player dislikes one paticuliar playstyle, he knows that there are several others
+for him to like.
+-Easy on the eyes
 //List stuff here that is key to the gameplay experience
 //List a lot of stuff here
 //Hey, if you got nothing here, is this game worth doing? 
@@ -363,32 +366,33 @@ Overview
 Describe the way the camera will work and then go into details if the camera is very complicated in sub sections.
 
 Camera Detail #1
+//The camera will move around like this and that.
+Being a 3D platformer, the camera controls are very important to get right. The camera will follow the player in a 
+standard third person format, with it locking when the player jumps to avoidconfusing angles while moving in mid-air, 
+it will be looking "down"  on the player at an angle generally trying to followform behind. 
+The exception to this is if the player turns directly twoards the camera, instead of instantly moving 180
+degrees to follow it will move slowly behind. The camera is zoomed out a fair amount to give the player a good look at 
+his surroundings and to make movement easier when he moves twoards the camera.
 
-	The camera will move around like this and that.
+//Camera Detail #2
 
-Camera Detail #2
-
-	The camera will sometimes move like this in this special circumstance.
+//The camera will sometimes move like this in this special circumstance.
 
 Game Engine
 
 Overview
-
-	Describe the game engine in general.
+//Describe the game engine in general.
 
 Game Engine Detail #1
 
 	The game engine will keep track of everything in the world like such and such.
 
 Water
-
-	There will be water in the world that looks awesome and our game engine will handle it beautifully.
-
+//There will be water in the world that looks awesome and our game engine will handle it beautifully.
+Water in this game will have a stylized look.
 Collision Detection
-
-	Our game engine handles collision detection really well.  It uses the such and such technique and will be quite excellent.  Can you see I am having a hard time making up stupid placeholder text here?
-
-
+//Our game engine handles collision detection really well.  It uses the such and such technique and will be quite excellent.  Can you see I am having a hard time making up stupid placeholder text here?
+Standard collision detection, using the built-in rigidbodies and colliders as triggers.
 
 
 Lighting Models
@@ -419,16 +423,16 @@ World Layout Detail #2
 Game Characters
 
 Overview
-
-	Over of what your characters are.
-
+//Over of what your characters are.
+Jems-Our Hero: A somewhat normal middle/grade schooler who is obsessed with video games and gets bored very easily.
+Jems Mother: The mother that takes care of our hero, she's very supportive of her kid's "active imagination".
 Creating a Character
-
-	How you create or personalize your character.
-
+//How you create or personalize your character.
+You can name your character and choose a gender.
 Enemies and Monsters
+//Describe enemies or monsters in the world or whomever the player is trying to defeat.  Naturally this depends heavily on your game idea but generally games are about trying to kill something. 
+Enemies change from level to level, they will often requier the use of that level's ablility to be able to defeat.
 
-	Describe enemies or monsters in the world or whomever the player is trying to defeat.  Naturally this depends heavily on your game idea but generally games are about trying to kill something. 
 
 User Interface
 
